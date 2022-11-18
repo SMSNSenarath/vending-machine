@@ -1,0 +1,20 @@
+.Message {
+  padding: 1.5rem;
+  margin: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orange;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 10px;
+  text-align: center;
+  width: 500px;
+  font-family: "Permanent Marker", cursive;
+}
+
+.Message a {
+  text-decoration: none;
+  color: crimson;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+}

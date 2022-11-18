@@ -1,6 +1,10 @@
 .App {
   text-align: center;
+  font-family: "Permanent Marker", cursive;
 }
+/* h1 {
+  font-family: "Permanent Marker", cursive;
+} */
 
 .App-logo {
   height: 40vmin;

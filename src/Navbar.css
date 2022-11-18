@@ -1,0 +1,14 @@
+.Navbar {
+  background-color: crimson;
+  width: 100%;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.5rem;
+}
+
+.Navbar a {
+  color: rgba(255, 255, 255, 0.57);
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
